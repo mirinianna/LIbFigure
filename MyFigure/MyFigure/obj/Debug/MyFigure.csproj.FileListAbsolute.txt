@@ -1,0 +1,6 @@
+E:\Visual Studio\Проекты\MyFigure\MyFigure\bin\Debug\MyFigure.dll
+E:\Visual Studio\Проекты\MyFigure\MyFigure\bin\Debug\MyFigure.pdb
+E:\Visual Studio\Проекты\MyFigure\MyFigure\obj\Debug\MyFigure.csproj.AssemblyReference.cache
+E:\Visual Studio\Проекты\MyFigure\MyFigure\obj\Debug\MyFigure.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Проекты\MyFigure\MyFigure\obj\Debug\MyFigure.dll
+E:\Visual Studio\Проекты\MyFigure\MyFigure\obj\Debug\MyFigure.pdb
